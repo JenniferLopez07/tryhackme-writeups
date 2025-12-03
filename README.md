@@ -1,15 +1,18 @@
 # 🔐 TryHackMe Write-Ups
 
 This repo contains my personal write-ups from TryHackMe rooms.  
-Each file documents the steps I took, tools I used, and lessons learned.
+I use it to document my progress, practice cybersecurity skills, and reflect on what I’ve learned.
 
-## Rooms Completed
+## 🏆 Badges Earned
+- Webbed
+- World Wide Web
+- cat linux.txt
 
+## 📂 Rooms Completed
+- [Basic Pentesting](basic-pentesting.md)
+- [Blue](blue.md)
+- [Root Me](root-me.md)
+- [Pickle Rick](pickle-rick.md)
+- [Mr Robot](mr-robot.md)
+...and more!
 
-## Format
-Each write-up includes:
-- Objective
-- Enumeration steps
-- Exploitation
-- Privilege escalation
-- Lessons learned
