@@ -1,19 +1,27 @@
-# Room: Basic Pentesting
+# Room: [Room Name]
 
 ## 🎯 Objective
-Gain access to the target machine and retrieve the flag.
+Briefly describe the goal of the room.
+
+---
 
 ## 🔎 Enumeration
 - Tools/commands used
 - Findings
 
+---
+
 ## 💥 Exploitation
 - Vulnerability exploited
 - Steps taken
 
+---
+
 ## 🔼 Privilege Escalation
 - Method used
 - Outcome
+
+---
 
 ## 📚 Lessons Learned
 - Key takeaways
