@@ -4,9 +4,7 @@ This repo contains my personal write-ups from TryHackMe rooms.
 I use it to document my progress, practice cybersecurity skills, and reflect on what I’ve learned.
 
 ## 🏆 Badges Earned
-- Webbed
-- World Wide Web
-- cat linux.txt
+<img src="https://tryhackme.com/img/badges/webbed.svg" alt="Webbed" width="70"/> <img src="https://tryhackme.com/img/badges/howthewebworks.svg" alt="Webbed" width="70"/> <img src="https://tryhackme.com/img/badges/linux.svg" alt="Webbed" width="70"/>
 
 ## 📂 Rooms Completed
 - [Basic Pentesting](basic-pentesting.md)
